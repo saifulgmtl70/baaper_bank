@@ -18,23 +18,3 @@ document.getElementById("submit").addEventListener("click", function(event){
 });
 
 
-
-// function validateForm(event) {
-//     event.preventDefault();
-  
-//     const email = document.getElementById("email").value;
-//     const password = document.getElementById("password").value;
-  
-//     // Replace these with actual email and password checks
-//     const validEmail = "azadcoxgmtl@gmail.com";
-//     const validPassword = "gmtl70";
-  
-//     if (email === validEmail && password === validPassword) {
-//       window.location.href = "bank.html"; // Redirect to the welcome page
-//     } else {
-//       alert("Invalid email or password. Please try again.");
-//     }
-//   }
-  
-
-
